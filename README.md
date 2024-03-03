@@ -25,7 +25,8 @@ A limpeza regular também pode ajudar a proteger seus dados, removendo spywares,
 **Cuidados ao Executar a Limpeza:**
 
 **Faça Backup:**
-[! **BACKUP NECESSARIO**](https://www.qnapbrasil.com.br/manager/assets/7JK7RXrL/userfiles/blog-images/o_que_e_backup/por-que-e-necessario-fazer-backup-post-o-que-e-backup-qnapbrasil.jpg)
+
+![ **BACKUP NECESSARIO**](https://www.qnapbrasil.com.br/manager/assets/7JK7RXrL/userfiles/blog-images/o_que_e_backup/por-que-e-necessario-fazer-backup-post-o-que-e-backup-qnapbrasil.jpg)
 Antes de iniciar qualquer processo de limpeza, faça backup dos seus dados importantes para evitar perdas acidentais.
 
 **Desconecte e Desligue:**
